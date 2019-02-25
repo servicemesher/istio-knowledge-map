@@ -30,6 +30,7 @@ Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nM
 - [nicklv](https://github.com/nicklv)
 - [sataqiu](https://github.com/sataqiu)
 - [rootsongjc](https://github.com/rootsongjc)
+- [wujunze](https://github.com/wujunze)
 - [xianyuluo](https://github.com/xianyuluo)
 
 # 关于 Istio 知识图谱工作组
