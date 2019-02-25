@@ -2,6 +2,8 @@
 
 The [Istio](https://istio.io) knowledge map(Istio 知识图谱) is an open source project of [Istio Knowledge Map Working Group](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members), it is a division of the [ServiceMesher](http://www.servicemesher.com) community that aims to enhance Service Mesh's theoretical learning and drive Service Mesh technology.
 
+![Istio knowledge map](png/istio-knowledge-map.png)
+
 ## Istio 知识图谱阅览
 
 Istio 知识图谱提供以下格式，点击下面的链接可以查看：
