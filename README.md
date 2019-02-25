@@ -15,7 +15,7 @@ Istio 知识图谱提供以下格式，点击下面的链接可以查看：
 
 ## 参与贡献
 
-Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nMAC9ZNH3NggQ_79vmdyog_2KtATKFofqP9f9K0rr7M/edit?ts=5c6ac5b7#heading=h.2nl61kfhbfx8) 上协作编辑，参与编辑请参考[贡献指南](CONTRIBUTING.MD)。
+Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nMAC9ZNH3NggQ_79vmdyog_2KtATKFofqP9f9K0rr7M/edit?ts=5c6ac5b7#heading=h.2nl61kfhbfx8) 上协作编辑，参与编辑请参考[贡献指南](CONTRIBUTING.md)。
 
 ## 致谢
 
