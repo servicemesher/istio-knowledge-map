@@ -11,6 +11,10 @@ Istio 知识图谱提供以下格式，点击下面的链接可以查看：
 - [PDF](pdf/istio-knowledge-map.pdf)
 - [PNG](png/istio-knowledge-map.png)
 
+## 参与贡献
+
+Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nMAC9ZNH3NggQ_79vmdyog_2KtATKFofqP9f9K0rr7M/edit?ts=5c6ac5b7#heading=h.2nl61kfhbfx8) 上协作编辑，参与编辑请参考[贡献指南](CONTRIBUTING.MD)。
+
 # 关于 Istio 知识图谱工作组
 
 [Istio 知识图谱工作组](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members)是 [ServiceMesher 社区](http://www.servicemesher.com)的一个分支，旨在通过协作加强 Service Mesh 的理论学习，共同学习，共同进步，同时推动 Service Mesh 技术的推广。
