@@ -2,13 +2,13 @@
 
 ## **Istio 介绍**
 
-### **Istio和服务网格**
+### ** Istio 和服务网格**
 
 - 概念原理
 
 - - Istio
 
-  - - Istio概述
+  - - Istio 概述
     - 架构解析
 
   - 服务网格
@@ -207,7 +207,7 @@
 ### **监控**
 
 - Prometheus
-- 配置Metrics收集
+- 配置 Metrics 收集
 - 获取 TCP 服务指标
 - Grafana  可视化图表展示
 - 生成服务图
@@ -216,7 +216,7 @@
 
 - Fluentd
 - 配置日志
-- 安装Fluentd/Elasticsearch/Kibana套件
+- 安装 Fluentd/Elasticsearch/Kibana 套件
 
 ## **流量管理**
 
